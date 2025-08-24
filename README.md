@@ -1,10 +1,10 @@
-🎮 RPS Arena
+🎮 RPS Power Clash
 
 A retro twist on the classic Rock–Paper–Scissors — now with power-ups!
 
 ✨ About the Game
 
-RPS Arena is a fun, lightweight web game where you battle against the computer in Rock–Paper–Scissors — but with a twist.
+RPS Power Clash is a fun, lightweight web game where you battle against the computer in Rock–Paper–Scissors — but with a twist.
 Use special power-ups to flip the game in your favor, manage cooldowns, and race to 5 points to win.
 
 ⚡ Features
@@ -42,10 +42,10 @@ Power-ups recharge after their cooldowns and light up when ready.
 🚀 Getting Started
 Run Locally
 # Clone the repository
-git clone https://github.com/your-username/rps-arena.git
+git clone https://github.com/your-username/RPS-PowerClash.git
 
 # Go into the project folder
-cd rps-arena
+cd RPS-Power Clash
 
 # Install dependencies
 npm install
