@@ -42,7 +42,7 @@ Power-ups recharge after their cooldowns and light up when ready.
 🚀 Getting Started
 Run Locally
 # Clone the repository
-git clone https://github.com/your-username/RPS-PowerClash.git
+git clone https://github.com/Aadhil-job/RPS-PowerClash.git
 
 # Go into the project folder
 cd RPS-Power Clash
