@@ -58,18 +58,18 @@ This project is designed to be deployed easily on Vercel.
 
 Push the repo to GitHub.
 
-Go to Vercel
+Go to [Vercel](https://vercel.com/)
 .
 
 Import the GitHub repo and deploy with one click.
 
 🛠️ Built With
 
-React
+[React](https://reactjs.org/)
 
-Tailwind CSS
+[Tailwind CSS](https://tailwindcss.com/)
 
-Framer Motion
+[Framer Motion](https://www.framer.com/motion/)
 
 📜 License
 
